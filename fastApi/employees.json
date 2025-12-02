@@ -1,0 +1,15 @@
+
+[
+    {
+        "id": 1,
+        "name": "Neela Naveen",
+        "age": 22,
+        "location": "Hyderabad"
+    },
+    {
+        "id": 2,
+        "name": "Ravi Kumar",
+        "age": 25,
+        "location": "Bangalore"
+    }
+]
